@@ -3,7 +3,8 @@ package net.asad.springbootbackend.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "employees")
+//@Table(name = "employees22")
+@Table(name = "EMPLOYEES22")
 public class Employee {
 
     @Id
